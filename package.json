@@ -1,0 +1,15 @@
+{
+  "name": "reddit-plus",
+  "version": "1.0.0",
+  "description": "A TamperMonkey-Script Suite which aims to improve Reddit's landing-pagegit ",
+  "main": "src/RedditPlus.ts",
+  "scripts": {
+    "build": "tsc --build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^4.8.4"
+  }
+}
